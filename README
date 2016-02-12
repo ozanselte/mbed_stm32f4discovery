@@ -1,0 +1,8 @@
+Project template created by gen-stm32f407-GCC-project.sh mbed-none
+   mbed-none ... creates a bare-metal project with mbed SDK
+
+Usage: make && sudo make deploy
+
+Git info:
+   stm32:    9067f9f8c6 (master)
+   mbed:     a94eb663dc (mbed_lib_rev91)
